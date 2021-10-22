@@ -34,7 +34,7 @@ public class Spawner : MonoBehaviour
     /// Size of the spawned obstacles.
     /// </summary>
     public float spawnSize = 1.0f;
-    
+
     /// <summary>
     /// Layer used for the spawned obstacles.
     /// </summary>
